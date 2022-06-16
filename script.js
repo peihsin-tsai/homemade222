@@ -1,14 +1,14 @@
 var bookdatas=[
   {
-    name: "雪 Q 餅(五種口味任選二種搭配)",
+    name: "雪 Q 餅",
     author: "約280g/包",
     img: "https://homemade222.files.wordpress.com/2022/03/e99baaqe9a485-2-edited.jpg",
     price: "$210-225/包",
     link_book: "https://www.books.com.tw/products/0010728840?loc=P_003_001",
     date: "常溫可存放2個禮拜",
-    gradiant:"雞蛋、砂糖、麵粉、安佳奶油、棉花糖、餅乾、奶粉、果乾、花生、杏仁果、香料粉等(原料可能因口味不同而有差異)",
+    gradiant:"紐西蘭奶油、棉花糖、餅乾、奶粉、果乾、花生、杏仁果、香料粉等(原料可能因口味不同而有差異)",
     method:"開封即食",
-    taste:"原味/$240、抹茶/$250、咖啡/$250、海苔/$250、伯爵/$250、可可/$250，價格為二種口味平均",
+    taste:"原味/$240、抹茶/$250、咖啡/$250、海苔/$250、伯爵/$250、可可/$250",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
     hint:"提袋花色因口味而異"
   },{
@@ -78,7 +78,7 @@ var bookdatas=[
     price: "$350/袋",
     link_book: "https://homemade222.files.wordpress.com/2022/03/e88bb1e5bc8fe5a4aae5a683e7b396-edited.jpg?w=2000&h=",
     date: "常溫30天/冷凍45天",
-    gradiant:"澳洲夏威夷豆、窯燒桂圓肉、法國發酵奶油、日本海藻糖等",
+    gradiant:"澳洲夏威夷豆、窯燒桂圓肉、法國發酵奶油、日本海藻糖、薑汁等",
     taste:"薑汁撞奶",
     method:"解凍需前一晚放置冷藏，隔天再放置室溫即可食用",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
@@ -126,7 +126,7 @@ var bookdatas=[
     price: "$260/盒",
     link_book: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
     date: "常溫5天/冷藏7天",
-    gradiant:"雞蛋、砂糖、麵粉、紐西蘭奶油等",
+    gradiant:"雞蛋、砂糖、麵粉、紐西蘭奶油、南瓜泥、核桃等",
     taste:"南瓜",
     method:"冷藏後口感較為紮實，如欲食用，需退冰約1小時風味最佳",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
