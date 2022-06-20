@@ -131,6 +131,18 @@ var bookdatas=[
     method:"冷藏後口感較為紮實，如欲食用，需退冰約1小時風味最佳",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
     hint:"台灣氣候濕熱，夏天一律以低溫宅配（運費自付）、手提包裝盒隨機"
+  },{
+    name: "高纖椰香燕麥餅",
+    author: "約300g/袋",
+    img: "https://homemade222.files.wordpress.com/2022/03/e78795e9baa5-2-edited.jpg?w=2000&h=",
+    price: "$300/袋",
+    link_book: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
+    date: "常溫可存放2個禮拜",
+    gradiant:"日本海藻糖、砂糖、紐西蘭奶油、高級龍眼蜂蜜、燕麥片、椰子粉、麵粉等",
+    taste:"椰香燕麥",
+    method:"開封即食",
+    warning:"運送過程中難免產生碰撞，可能有破損機率，介意的朋友請三思；皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
+    hint:"台灣氣候濕熱，夏天一律以低溫宅配（運費自付）、手提包裝袋隨機"
   }
 ];
 
