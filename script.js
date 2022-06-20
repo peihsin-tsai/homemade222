@@ -143,6 +143,18 @@ var bookdatas=[
     method:"開封即食",
     warning:"運送過程中難免產生碰撞，可能有破損機率，介意的朋友請三思；皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
     hint:"手提包裝袋隨機"
+  },{
+    name: "榛果費南雪",
+    author: "長 8CM * 寬 4.2CM，10入",
+    img: "https://obs.line-scdn.net/hR5nzxeAsERtibwIVMTkWYi8dUy16N0xPaWZGdXAHVS59NkJMaWAXfSMLUy1_dksbOzdLL38L/m612x918",
+    price: "$420/盒",
+    link_book: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
+    date: "密封常溫可存放12~14天",
+    gradiant:"日本海藻糖、蛋、麵粉、榛果粉、榛果粒、法國發酵奶油等",
+    taste:"榛果",
+    method:"冷藏後口感較為紮實，如欲食用，需退冰口味尤佳",
+    warning:"請保存於室溫28度以下，避免存放在高溫或日照下；皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
+    hint:"袋內有脫氧劑包請勿食用、手提包裝盒隨機"
   }
 ];
 
