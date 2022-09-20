@@ -96,30 +96,6 @@ var bookdatas=[
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
     hint:"袋內有乾燥劑請勿食用"
   },{
-    name: "麻辣脆糖腰果",
-    author: "約200g/罐",
-    img: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
-    price: "$260/罐",
-    link_book: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
-    date: "常溫30天",
-    gradiant:"糖、鹽、越南腰果、法國發酵奶油、辣粉等",
-    taste:"麻辣脆糖",
-    method:"開封即食",
-    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
-    hint:"罐內有乾燥劑請勿食用"
-  },{
-    name: "麻辣脆糖豆豆(微辣)",
-    author: "約200g/罐",
-    img: "https://homemade222.files.wordpress.com/2022/06/m800x1200-2-3.jpg?w=500",
-    price: "$370/罐",
-    link_book: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
-    date: "常溫30天",
-    gradiant:"糖、鹽、越南腰果、法國發酵奶油、辣粉等",
-    taste:"麻辣脆糖",
-    method:"開封即食",
-    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
-    hint:"罐內有乾燥劑請勿食用"
-  },{
     name: "南瓜磅蛋糕",
     author: "約220g/盒",
     img: "https://homemade222.files.wordpress.com/2022/03/e58d97e7939ce6a392e89b8be7b395-3-edited.jpg",
@@ -158,6 +134,33 @@ var bookdatas=[
   }
 ];
 
+/*
+{
+    name: "麻辣脆糖腰果",
+    author: "約200g/罐",
+    img: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
+    price: "$260/罐",
+    link_book: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
+    date: "常溫30天",
+    gradiant:"糖、鹽、越南腰果、法國發酵奶油、辣粉等",
+    taste:"麻辣脆糖",
+    method:"開封即食",
+    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
+    hint:"罐內有乾燥劑請勿食用"
+  },{
+    name: "麻辣脆糖豆豆(微辣)",
+    author: "約200g/罐",
+    img: "https://homemade222.files.wordpress.com/2022/06/m800x1200-2-3.jpg?w=500",
+    price: "$370/罐",
+    link_book: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
+    date: "常溫30天",
+    gradiant:"糖、鹽、越南腰果、法國發酵奶油、辣粉等",
+    taste:"麻辣脆糖",
+    method:"開封即食",
+    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
+    hint:"罐內有乾燥劑請勿食用"
+  }
+  */
 var vm=new Vue({
   el: "#app",
   data: {
