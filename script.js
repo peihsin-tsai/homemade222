@@ -6,7 +6,7 @@ var bookdatas=[
     price: "$240-250/包",
     link_book: "https://www.books.com.tw/products/0010728840?loc=P_003_001",
     date: "常溫可存放2個禮拜",
-    gradiant:"紐西蘭奶油、棉花糖、餅乾、奶粉、果乾、花生、杏仁果、香料粉等(原料可能因口味不同而有差異)",
+    gradiant:"紐西蘭奶油、棉花糖、餅乾、奶粉、果乾、花生、杏仁果、風味粉等(原料可能因口味不同而有差異)",
     method:"開封即食",
     taste:"原味/$240、抹茶/$250、咖啡/$250、海苔/$250、伯爵/$250、可可/$250",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
@@ -123,14 +123,14 @@ var bookdatas=[
     name: "榛果費南雪",
     author: "長 8CM * 寬 4.2CM，10入",
     img: "https://obs.line-scdn.net/hR5nzxeAsERtibwIVMTkWYi8dUy16N0xPaWZGdXAHVS59NkJMaWAXfSMLUy1_dksbOzdLL38L/m612x918",
-    price: "$420/盒",
+    price: "$500/盒",
     link_book: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
     date: "密封常溫可存放12~14天",
     gradiant:"日本海藻糖、蛋、麵粉、榛果粉、榛果粒、法國發酵奶油等",
     taste:"榛果",
     method:"冷藏後口感較為紮實，如欲食用，需退冰口味尤佳",
     warning:"請保存於室溫28度以下，避免存放在高溫或日照下；皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
-    hint:"台灣氣候濕熱，夏天一律以低溫宅配（運費自付）、袋內有脫氧劑包請勿食用、手提包裝盒隨機"
+    hint:"台灣氣候濕熱，一律以低溫宅配（運費自付）、袋內有脫氧劑包請勿食用、手提包裝盒隨機"
   }
 ];
 
