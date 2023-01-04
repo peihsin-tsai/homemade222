@@ -2,9 +2,8 @@ var bookdatas=[
   {
     name: "雪 Q 餅 (原味/抹茶/咖啡/海苔/伯爵/可可) (不可混裝)",
     author: "約280g/包",
-    img: "https://homemade222.files.wordpress.com/2022/03/e99baaqe9a485-2-edited.jpg",
+    img: "https://user-images.githubusercontent.com/71368136/210489318-1fdd65e0-88d9-4006-8e3c-99e23817a650.jpg",
     price: "$240-250/包",
-    link_book: "https://www.books.com.tw/products/0010728840?loc=P_003_001",
     date: "常溫可存放2個禮拜",
     gradiant:"紐西蘭奶油、棉花糖、餅乾、奶粉、果乾、花生、杏仁果、風味粉等(原料可能因口味不同而有差異)",
     method:"開封即食",
@@ -14,9 +13,8 @@ var bookdatas=[
   },{
     name: "椰子球",
     author: "約270g/罐",
-    img: "https://homemade222.files.wordpress.com/2022/03/e6a4b0e5ad90e79083-edited.jpg",
+    img: "https://user-images.githubusercontent.com/71368136/210496787-01a1ec8e-b502-448f-94bd-2727494052ab.jpg",
     price: "$320/罐",
-    link_book: "https://www.books.com.tw/products/0010728840?loc=P_003_001",
     date: "常溫7天/冷藏10天",
     gradiant:"雞蛋、砂糖、麵粉、起士粉、椰子粉、紐西蘭奶油等",
     taste:"椰子",
@@ -26,9 +24,8 @@ var bookdatas=[
   },{
     name: "瑪德蓮(蜜香/可可)(不可混裝)",
     author: "8個/盒",
-    img: "https://homemade222.files.wordpress.com/2022/03/e791aae5beb7e893ae-1-edited.jpg",
+    img: "https://user-images.githubusercontent.com/71368136/210490234-f7f98df0-0176-4337-a195-742c54c3057d.jpg",
     price: "$300/盒",
-    link_book: "https://www.books.com.tw/products/0010728840?loc=P_003_001",
     date: "常溫5-7天/冷凍2週",
     gradiant:"雞蛋、砂糖、麵粉、紐西蘭奶油、高級龍眼蜜、法芙娜可可粉(可可口味)等",
     taste:"蜜香/$300、可可/$300",
@@ -38,7 +35,7 @@ var bookdatas=[
   },{
     name: "南棗核桃糕",
     author: "約200g/袋",
-    img: "https://homemade222.files.wordpress.com/2022/03/e58d97e6a397e6a0b8e6a183e7b395-edited.jpg?w=2000&h=",
+    img: "https://user-images.githubusercontent.com/71368136/210490306-93927c62-38e2-4689-9bf6-ca8641dffc23.jpg",
     price: "$280/袋",
     link_book: "https://www.books.com.tw/products/0010728840?loc=P_003_001",
     date: "常溫30天/冷凍45天",
@@ -50,9 +47,8 @@ var bookdatas=[
   },{
     name: "英式太妃酥糖",
     author: "約200g/袋",
-    img: "https://homemade222.files.wordpress.com/2022/03/e88bb1e5bc8fe5a4aae5a683e7b396-edited.jpg?w=2000&h=",
+    img: "https://user-images.githubusercontent.com/71368136/210490362-6d10dc63-c73d-46ae-a98f-f2efa6b56fb1.jpg",
     price: "$350/袋",
-    link_book: "https://homemade222.files.wordpress.com/2022/03/e88bb1e5bc8fe5a4aae5a683e7b396-edited.jpg?w=2000&h=",
     date: "常溫30天/冷凍45天",
     gradiant:"法國發酵奶油、美國杏仁條、日本海藻糖、動物性鮮奶油等進口原料",
     taste:"英式太妃",
@@ -62,7 +58,7 @@ var bookdatas=[
   },{
     name: "莓果夏威夷Q糖",
     author: "約200g/袋",
-    img: "https://homemade222.files.wordpress.com/2022/03/e5a48fe5a881e5a4b7qe9a485-edited.jpg",
+    img: "https://user-images.githubusercontent.com/71368136/210490416-68ca01f3-9ea9-44c0-8826-087e7b42617d.jpg",
     price: "$350/袋",
     link_book: "https://homemade222.files.wordpress.com/2022/03/e88bb1e5bc8fe5a4aae5a683e7b396-edited.jpg?w=2000&h=",
     date: "常溫30天/冷凍45天",
@@ -74,9 +70,8 @@ var bookdatas=[
   },{
     name: "薑汁撞奶Q糖",
     author: "約200g/袋",
-    img: "https://homemade222.files.wordpress.com/2022/03/e89691e6b181e6929ee5a5b6-edited.jpg",
+    img: "https://user-images.githubusercontent.com/71368136/210490478-c9a9a63f-38d5-4a72-9238-c62f73da5673.jpg",
     price: "$350/袋",
-    link_book: "https://homemade222.files.wordpress.com/2022/03/e88bb1e5bc8fe5a4aae5a683e7b396-edited.jpg?w=2000&h=",
     date: "常溫30天/冷凍45天",
     gradiant:"澳洲夏威夷豆、窯燒桂圓肉、法國發酵奶油、日本海藻糖、薑汁等",
     taste:"薑汁撞奶",
@@ -84,14 +79,13 @@ var bookdatas=[
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
     hint:"手提包裝袋隨機"
   },{
-    name: "米香片(夏威夷豆/綜合)(不可混)",
-    author: "約直徑6cmX厚1.5cm/個 , 10入/盒",
-    img: "https://homemade222.files.wordpress.com/2022/06/1.jpg?w=500&h=",
-    price: "320-420/盒",
-    link_book: "https://homemade222.files.wordpress.com/2022/06/1-1.jpg?w=500",
+    name: "米果(哇沙米脆片/玉米濃湯脆片/青蘋果抹茶/野莓杏仁/榛果巧克力/九州黑糖/川香海味夏威夷豆/川香海味綜合)",
+    author: "約直徑5.5cm X 厚1.6cm/個 , 12入/袋 (凡兩種口味以上可混裝，如欲盒裝12入以下價格+$20)",
+    img: "https://user-images.githubusercontent.com/71368136/210496649-147766f2-dcdd-4442-b759-0320f245429b.jpg",
+    price: "$320-420/袋",
     date: "常溫30天",
-    gradiant:"麥芽、轉化糖漿、米香、XO醬、夏威夷豆、法國發酵奶油、杏仁條、南瓜子、黑芝麻等(可能因口味不同而有所差異)",
-    taste:"夏威夷豆米香片$420、綜合米香片$320",
+    gradiant:"水麥芽、上白糖、鹽、黑胡椒粒、玉米脆片、米果、風味粉等(可能因口味不同而有所差異)",
+    taste:"哇沙米脆片/$320、玉米濃湯脆片/$320、青蘋果抹茶/$395、野莓杏仁/$395、榛果巧克力/$395、九州黑糖/$380、川香海味夏威夷豆/$420、川香海味綜合/$395",
     method:"開封即食",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
     hint:"袋內有乾燥劑請勿食用"
@@ -100,67 +94,48 @@ var bookdatas=[
     author: "約220g/盒",
     img: "https://homemade222.files.wordpress.com/2022/03/e58d97e7939ce6a392e89b8be7b395-3-edited.jpg",
     price: "$260/盒",
-    link_book: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
     date: "常溫5天/冷藏7天",
     gradiant:"雞蛋、砂糖、麵粉、紐西蘭奶油、南瓜泥、核桃等",
     taste:"南瓜",
     method:"冷藏後口感較為紮實，如欲食用，需退冰約1小時風味最佳",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
-    hint:"台灣氣候濕熱，夏天一律以低溫宅配（運費自付）、手提包裝盒隨機"
+    hint:"1.台灣氣候濕熱，夏天一律以低溫宅配（運費自付） 2.手提包裝盒隨機"
+  },{
+    name: "榛果費南雪",
+    author: "約 長8CM * 寬4.2CM，10入/盒",
+    img: "https://user-images.githubusercontent.com/71368136/210491232-577dfd8a-a675-4128-9c75-5005c6f6d87d.jpg",
+    price: "$500/盒",
+    date: "密封常溫12~14天",
+    gradiant:"日本海藻糖、蛋、麵粉、榛果粉、榛果粒、法國發酵奶油等",
+    taste:"榛果",
+    method:"冷藏後口感較為紮實，如欲食用，需退冰口味尤佳",
+    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請保存於室溫28度以下，避免存放在高溫或日照下",
+    hint:"1.台灣氣候濕熱，一律以低溫宅配（運費自付）2.手提包裝盒隨機 3.袋內有脫氧劑包請勿食用"
   },{
     name: "高纖椰香燕麥餅",
     author: "約300g/袋",
-    img: "https://homemade222.files.wordpress.com/2022/03/e78795e9baa5-2-edited.jpg?w=2000&h=",
+    img: "https://user-images.githubusercontent.com/71368136/210491263-554cb9e1-b71d-4577-8c77-af7b7495b067.jpg",
     price: "$300/袋",
-    link_book: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
     date: "常溫可存放2個禮拜",
     gradiant:"日本海藻糖、砂糖、紐西蘭奶油、高級龍眼蜂蜜、燕麥片、椰子粉、麵粉等",
     taste:"椰香燕麥",
     method:"開封即食",
-    warning:"運送過程中難免產生碰撞，可能有破損機率，介意的朋友請三思；皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
-    hint:"手提包裝袋隨機"
+    warning:"1.皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢 2.請保存於室溫28度以下，避免存放在高溫或日照下 ",
+    hint:"1.台灣氣候濕熱，夏天一律以低溫宅配（運費自付）2.手提包裝袋隨機 3.運送過程中難免產生碰撞，可能有破損機率，介意的朋友請三思"
   },{
-    name: "榛果費南雪",
-    author: "長 8CM * 寬 4.2CM，10入",
-    img: "https://obs.line-scdn.net/hR5nzxeAsERtibwIVMTkWYi8dUy16N0xPaWZGdXAHVS59NkJMaWAXfSMLUy1_dksbOzdLL38L/m612x918",
-    price: "$500/盒",
-    link_book: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
-    date: "密封常溫可存放12~14天",
-    gradiant:"日本海藻糖、蛋、麵粉、榛果粉、榛果粒、法國發酵奶油等",
-    taste:"榛果",
-    method:"冷藏後口感較為紮實，如欲食用，需退冰口味尤佳",
-    warning:"請保存於室溫28度以下，避免存放在高溫或日照下；皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
-    hint:"台灣氣候濕熱，一律以低溫宅配（運費自付）、袋內有脫氧劑包請勿食用、手提包裝盒隨機"
+    name: "楓糖綜合堅果塔",
+    author: "6入/袋、6入/盒",
+    img: "https://user-images.githubusercontent.com/71368136/210496487-c2aea261-a9e7-4b8d-9dfc-bb5d95a0fe0a.jpg",
+    price: "$360/袋、$380/盒",
+    date: "常溫可存放15-20天",
+    gradiant:"麵粉、杏仁粉、蛋、上白糖、楓糖漿、法國發酵奶油、美國杏仁粒、核桃、澳洲夏威夷豆、南瓜子等",
+    taste:"椰香燕麥",
+    method:"開封即食",
+    warning:"1.皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢 2.請保存於室溫28度以下，避免存放在高溫或日照下 ",
+    hint:"手提包裝盒/袋隨機 "
   }
 ];
 
-/*
-{
-    name: "麻辣脆糖腰果",
-    author: "約200g/罐",
-    img: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
-    price: "$260/罐",
-    link_book: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
-    date: "常溫30天",
-    gradiant:"糖、鹽、越南腰果、法國發酵奶油、辣粉等",
-    taste:"麻辣脆糖",
-    method:"開封即食",
-    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
-    hint:"罐內有乾燥劑請勿食用"
-  },{
-    name: "麻辣脆糖豆豆(微辣)",
-    author: "約200g/罐",
-    img: "https://homemade222.files.wordpress.com/2022/06/m800x1200-2-3.jpg?w=500",
-    price: "$370/罐",
-    link_book: "https://homemade222.files.wordpress.com/2022/06/m800x1200-1-4.jpg?w=500",
-    date: "常溫30天",
-    gradiant:"糖、鹽、越南腰果、法國發酵奶油、辣粉等",
-    taste:"麻辣脆糖",
-    method:"開封即食",
-    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢",
-    hint:"罐內有乾燥劑請勿食用"
-  }
-  */
 var vm=new Vue({
   el: "#app",
   data: {
