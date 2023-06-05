@@ -1,7 +1,7 @@
 *
   font-family: 微軟正黑體
 html,body
-  background-color:#F8EFEA
+  background-color: #f5f1d7
   
 body
   padding: 20px
@@ -18,7 +18,7 @@ body
     color: white
     font-size: 30px
     margin-left:0px
-    background-color: red
+    background-color: #e82034
     border-radius: 5px
     box-shadow: 0px 0px 12px rgba(#000,0.5)
     cursor: pointer
