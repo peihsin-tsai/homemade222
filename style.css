@@ -23,7 +23,9 @@ body {
 }
 
 .content {
-  font-size: 30px;
+  font-size: 35px;
+  font-weight: bold;
+  color:#6D2212;
 }
 
 .f {
@@ -60,14 +62,14 @@ body {
   font-weight: normal;
   margin: 0;
   font-size: 50px;
-  line-height: 350px;
+  line-height: 300px;
 }
 .book .author {
   margin-top: 5px;
 }
 .book .name {
   margin: 0;
-  font-size: 50px;
+  font-size: 55px;
   font-weight: 1000;
 }
 .book .red {
