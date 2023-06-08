@@ -59,7 +59,8 @@ body {
 .book .author, .book .price, .book .publish {
   font-weight: normal;
   margin: 0;
-  font-size: 28px;
+  font-size: 50px;
+  line-height: 30px;
 }
 .book .author {
   margin-top: 5px;
