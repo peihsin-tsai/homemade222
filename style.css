@@ -13,13 +13,13 @@ body {
 }
 
 .bkl_icon {
-  width: 70px;
-  height: 70px;
+  width: 150px;
+  height: 150px;
 }
 
 .title {
   margin-left: 10px;
-  font-size: 50px;
+  font-size: 60px;
 }
 
 .content {
@@ -110,7 +110,8 @@ body {
   line-height: 40px;
 }
 .book img {
-  width: 300px;
+  width: 600px;
+  height: 500px;
   display: inline-block;
   vertical-align: middle;
 }
