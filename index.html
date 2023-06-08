@@ -16,15 +16,23 @@
   <div class="book {{mode_detail?'detail':''}} {{mode_size}}" v-for="book in books">
     <div class="block"></div><img src="{{book.img}}"/>
     <div class="infos">
+      <p>
       <h2 class="name">{{book.name}}</h2>
+      <p>
       <h4 class="author"> {{book.author}} </h4>
+      <p>
       <h4 class="price"><span class="red">優惠價:  {{(book.price)}}</span></h4>
+      <p>
       <h4 class="publish"><span class="green">口味: {{book.taste}}</span></h4>
       <hr/>
       <h4 class="publish" v-if="!mode_easy"> <span class="blue">原料: {{book.gradiant}} </span></h4>
+      <p>
       <h4 class="publish" v-if="!mode_easy"> <span class="pink">食用方式: {{book.method}}  </span></h4>
+      <p>
       <h4 class="publish"><span class="brown">保存期限: {{book.date}}    </span></h4>
+      <p>
       <h4 class="publish" v-if="!mode_easy"><span class="rose">注意事項: {{book.warning}}  </span></h4>
+      <p>
       <h4 class="publish" v-if="!mode_easy"> <span class="black">備註: {{book.hint}}</span></h4>
     </div>
   </div>
