@@ -28,7 +28,7 @@ body {
 
 .f {
   color: white;
-  font-size: 50px;
+  font-size: 60px;
   margin-left: 0px;
   background-color: #e82034;
   border-radius: 5px;
@@ -48,7 +48,7 @@ body {
   border: solid 1px #bbb;
   line-height: 22px;
   margin: 10px;
-  font-size: 30px;
+  font-size: 40px;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
 }
@@ -66,7 +66,7 @@ body {
 }
 .book .name {
   margin: 0;
-  font-size: 28px;
+  font-size: 38px;
   font-weight: 1000;
 }
 .book .red {
@@ -103,7 +103,7 @@ body {
   width: 100%;
   text-align: left;
   padding: 20px;
-  line-height: 26px;
+  line-height: 40px;
 }
 .book img {
   width: 300px;
@@ -119,7 +119,7 @@ body {
 label {
   size: 600;
   background-color: white;
-  font-size: 35px;
+  font-size: 45px;
   color: #b81218;
   font-weight: 600;
   border-radius: 5px;
