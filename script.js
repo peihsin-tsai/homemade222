@@ -11,6 +11,17 @@ var bookdatas=[
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"提袋花色因口味而異"
   },{
+    name: "雪 Q 餅 (原味盒裝) ",
+    author: "約650g/盒",
+    img: "https://github.com/peihsin-tsai/homemade222/assets/71368136/97941736-ff8e-4ed2-91cb-c75d8759525f.jpg",
+    price: "$650/盒",
+    date: "常溫可存放2個禮拜",
+    gradiant:"紐西蘭奶油、棉花糖、餅乾、奶粉、果乾、花生、杏仁果",
+    method:"開封即食",
+    taste:"原味/$580",
+    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
+    hint:"只限原味"
+  },{
     name: "椰子球",
     author: "約270g/罐",
     img: "https://user-images.githubusercontent.com/71368136/210496787-01a1ec8e-b502-448f-94bd-2727494052ab.jpg",
