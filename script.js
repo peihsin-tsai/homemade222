@@ -13,7 +13,7 @@ var bookdatas=[
   },{
     name: "雪 Q 餅 (原味盒裝) ",
     author: "約650g/盒",
-    img: "https://github.com/peihsin-tsai/homemade222/assets/71368136/97941736-ff8e-4ed2-91cb-c75d8759525f.jpg",
+    img: "https://private-user-images.githubusercontent.com/71368136/298857740-97941736-ff8e-4ed2-91cb-c75d8759525f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU5OTc2MTcsIm5iZiI6MTcwNTk5NzMxNywicGF0aCI6Ii83MTM2ODEzNi8yOTg4NTc3NDAtOTc5NDE3MzYtZmY4ZS00ZWQyLTkxY2ItYzc1ZDg3NTk1MjVmLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIzVDA4MDgzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdhZjNmZDYwNDdkY2NhMzQ1YTRlNDEzMDExYmFiODQzOTViN2ZhY2Y1ZDI2NGE5MzAyMGY4NGZmODBiNDIyZDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.SYtxYJ556BwCyNYzXXahf_7skopuGZLEWQ_jn5BBEk8",
     price: "$650/盒",
     date: "常溫可存放2個禮拜",
     gradiant:"紐西蘭奶油、棉花糖、餅乾、奶粉、果乾、花生、杏仁果",
