@@ -1,8 +1,8 @@
 var bookdatas=[
   {
-    name: "草莓雪 Q 餅 (本季限定)",
+    name: "草莓雪 Q 餅 (年節限定)",
     author: "約250g/袋",
-    img: "https://private-user-images.githubusercontent.com/71368136/391310717-7e144555-7da8-471b-a339-d270df5196a2.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMwMzY1OTcsIm5iZiI6MTczMzAzNjI5NywicGF0aCI6Ii83MTM2ODEzNi8zOTEzMTA3MTctN2UxNDQ1NTUtN2RhOC00NzFiLWEzMzktZDI3MGRmNTE5NmEyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAxVDA2NTgxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3M2Y2ZTNlZDhjNDNhNTdlNmY3YzU0NGM4ZDdjMDI1ZDY2ZDAyZjIwZTlmZDM2YzM4YmJmNTVlYzJhZjcwMzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.iW3N82YwH_9YPwZjdxM_6KXQ2VkBbLryEHvndqXE5TI",
+    img: "https://github.com/user-attachments/assets/7e144555-7da8-471b-a339-d270df5196a2",
     price: "$300/袋",
     date: "常溫可存放2個禮拜/冷藏30天",
     gradiant:"紐西蘭奶油、棉花糖、餅乾、奶粉、果乾(草莓乾)、杏仁果、南瓜子、草莓凍乾",
@@ -11,9 +11,9 @@ var bookdatas=[
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"提袋花色因口味而異"
   },{
-    name: "花生 Q 糖",
+    name: "花生軟糖",
     author: "約250g/袋",
-    img: "https://private-user-images.githubusercontent.com/71368136/391310652-6e16d2b1-c676-4190-a468-95ef5e0e64a7.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMwMzYzOTQsIm5iZiI6MTczMzAzNjA5NCwicGF0aCI6Ii83MTM2ODEzNi8zOTEzMTA2NTItNmUxNmQyYjEtYzY3Ni00MTkwLWE0NjgtOTVlZjVlMGU2NGE3LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAxVDA2NTQ1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjM2RlYTM2MjRlY2FhOTE3MmU0Zjc1YWFmMzE4NDQ3ODJkNjE3ZWRiMDZkM2UzZGUwZDk4YjMyMjU2ODQ5MzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._Sb5pRZlFsHV5o-a48iC8YgIW5VX1vulrFdW5S9Y1Cc",
+    img: "https://github.com/user-attachments/assets/6e16d2b1-c676-4190-a468-95ef5e0e64a7",
     price: "$240/袋",
     date: "常溫可存放30天/冷藏60天",
     gradiant:"麥芽糖、砂糖、日本海藻糖、寒天、奶油、花生、植物油",
@@ -22,9 +22,9 @@ var bookdatas=[
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"提袋花色因口味而異"
   },{
-    name: "芝麻花生 Q 糖",
+    name: "芝麻花生軟糖",
     author: "約250g/袋",
-    img: "https://private-user-images.githubusercontent.com/71368136/391310695-e76878d3-25bb-4692-8d6e-dc3cd99d207c.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMwMzY1NzIsIm5iZiI6MTczMzAzNjI3MiwicGF0aCI6Ii83MTM2ODEzNi8zOTEzMTA2OTUtZTc2ODc4ZDMtMjViYi00NjkyLThkNmUtZGMzY2Q5OWQyMDdjLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAxVDA2NTc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc3NzhjYTYxNDZhNzQ5NzkwNTY0ZDJiZTJiNDhlM2NkY2FmOWYyMzMzYzMzMTMyYTJiZGQ5NmI5ZmFhNjJjNGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Mevtw6QjfaX51_tURzEwNsWtFJjjFe3RKv4nezhk044",
+    img: "https://github.com/user-attachments/assets/e76878d3-25bb-4692-8d6e-dc3cd99d207c",
     price: "$240/袋",
     date: "常溫可存放30天/冷藏60天",
     gradiant:"麥芽糖、砂糖、日本海藻糖、寒天、奶油、花生、芝麻、芝麻油",
