@@ -1,5 +1,39 @@
 var bookdatas=[
   {
+    name: "草莓雪 Q 餅 (本季限定)",
+    author: "約250g/包",
+    img: "https://user-images.githubusercontent.com/71368136/210489318-1fdd65e0-88d9-4006-8e3c-99e23817a650.jpg",
+    price: "$300/包",
+    date: "常溫可存放2個禮拜/冷藏30天",
+    gradiant:"紐西蘭奶油、棉花糖、餅乾、奶粉、果乾(草莓乾)、杏仁果、南瓜子、草莓凍乾",
+    method:"開封即食，冷藏過食用前稍退冰 口感更佳",
+    taste:"草莓",
+    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
+    hint:"提袋花色因口味而異"
+  },{
+    name: "花生 Q 糖",
+    author: "約250g/包",
+    img: "https://user-images.githubusercontent.com/71368136/210489318-1fdd65e0-88d9-4006-8e3c-99e23817a650.jpg",
+    price: "$240/包",
+    date: "常溫可存放30天/冷藏60天",
+    gradiant:"麥芽糖、砂糖、日本海藻糖、寒天、奶油、花生、植物油",
+    method:"開封即食，冷藏過食用前稍退冰 口感更佳",
+    taste:"花生",
+    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
+    hint:"提袋花色因口味而異"
+  },{
+    name: "芝麻花生 Q 糖",
+    author: "約250g/包",
+    img: "https://user-images.githubusercontent.com/71368136/210489318-1fdd65e0-88d9-4006-8e3c-99e23817a650.jpg",
+    price: "$240/包",
+    date: "常溫可存放30天/冷藏60天",
+    gradiant:"麥芽糖、砂糖、日本海藻糖、寒天、奶油、花生、芝麻、芝麻油",
+    method:"開封即食，冷藏過食用前稍退冰 口感更佳",
+    taste:"芝麻花生",
+    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
+    hint:"提袋花色因口味而異"
+  },
+  {
     name: "雪 Q 餅 (原味/抹茶/咖啡/海苔/伯爵/可可) (不可混裝)",
     author: "約280g/包",
     img: "https://user-images.githubusercontent.com/71368136/210489318-1fdd65e0-88d9-4006-8e3c-99e23817a650.jpg",
