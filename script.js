@@ -16,7 +16,7 @@ var bookdatas=[
     img: "https://github.com/user-attachments/assets/6e16d2b1-c676-4190-a468-95ef5e0e64a7",
     price: "$240/袋",
     date: "常溫可存放30天/冷藏60天",
-    gradiant:"麥芽糖、砂糖、日本海藻糖、寒天、奶粉、花生、植物油",
+    gradiant:"麥芽糖、砂糖、日本海藻糖、寒天、奶粉、花生、花生油",
     method:"開封即食，冷藏過食用前稍退冰 口感更佳",
     taste:"花生",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
