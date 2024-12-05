@@ -11,7 +11,7 @@ var bookdatas=[
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"提袋花色因口味而異"
   },{
-    name: "花生軟糖",
+    name: "花生軟糖 (全素) ",
     author: "約250g/袋",
     img: "https://github.com/user-attachments/assets/6e16d2b1-c676-4190-a468-95ef5e0e64a7",
     price: "$240/袋",
@@ -22,7 +22,7 @@ var bookdatas=[
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"提袋花色因口味而異"
   },{
-    name: "芝麻花生軟糖",
+    name: "芝麻花生軟糖 (全素)",
     author: "約250g/袋",
     img: "https://github.com/user-attachments/assets/e76878d3-25bb-4692-8d6e-dc3cd99d207c",
     price: "$240/袋",
@@ -84,7 +84,7 @@ var bookdatas=[
     price: "$300/袋",
     link_book: "https://www.books.com.tw/products/0010728840?loc=P_003_001",
     date: "常溫30天/冷凍45天",
-    gradiant:"美國核桃、純棗泥、法國發酵奶油、日本海藻糖等",
+    gradiant:"美國核桃、純棗泥、法國發酵奶油、日本海藻糖、麥芽糖、寒天等",
     taste:"南棗核桃",
     method:"解凍需前一晚放置冷藏，隔天再放置室溫即可食用",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
