@@ -78,7 +78,7 @@ var bookdatas=[
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"台灣氣候濕熱，夏天一律以低溫宅配（運費自付），手提包裝盒隨機"
   },{
-    name: "南棗核桃糕",
+    name: "南棗核桃糕 (全素)",
     author: "約200g/袋",
     img: "https://user-images.githubusercontent.com/71368136/210490306-93927c62-38e2-4689-9bf6-ca8641dffc23.jpg",
     price: "$300/袋",
