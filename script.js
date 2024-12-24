@@ -14,7 +14,7 @@ var bookdatas=[
     {
     name: "繽紛果乾牛軋糖",
     author: "約200g/袋",
-    img: "https://github.com/user-attachments/assets/7e144555-7da8-471b-a339-d270df5196a2",
+    img: "https://github.com/user-attachments/assets/fbb5a10d-e4ca-4291-a92d-bcec1ec95df6",
     price: "$410/袋",
     date: "常溫30天/冷藏60天",
     gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、紐西蘭無水奶油、澳洲夏威夷豆、蔓越莓、草莓乾、芒果青、番茄乾、草莓凍乾、芒果乾、鳳梨乾、奇異果乾、橙片、火龍果乾",
@@ -25,7 +25,7 @@ var bookdatas=[
     },  {
     name: "抹茶草莓牛軋糖",
     author: "約200g/袋",
-    img: "https://github.com/user-attachments/assets/7e144555-7da8-471b-a339-d270df5196a2",
+    img: "https://github.com/user-attachments/assets/628fa0ae-3268-4564-a6f0-74c447e79db9",
     price: "$380/袋",
     date: "常溫30天/冷藏60天",
     gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、紐西蘭無水奶油、澳洲夏威夷豆、草莓凍乾、小山園抹茶粉",
@@ -37,7 +37,7 @@ var bookdatas=[
     {
     name: "杏仁果牛軋糖",
     author: "約200g/袋",
-    img: "https://github.com/user-attachments/assets/7e144555-7da8-471b-a339-d270df5196a2",
+    img: "https://github.com/user-attachments/assets/97ad1f12-b50d-439a-bfa9-4f7dcc04e34e",
     price: "$260/袋",
     date: "常溫30天/冷藏60天",
     gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、紐西蘭無水奶油、美國杏仁果",
