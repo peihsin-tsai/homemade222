@@ -11,7 +11,42 @@ var bookdatas=[
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"提袋花色因口味而異"
     },*/
-{
+    {
+    name: "繽紛果乾牛軋糖",
+    author: "約200g/袋",
+    img: "https://github.com/user-attachments/assets/7e144555-7da8-471b-a339-d270df5196a2",
+    price: "$410/袋",
+    date: "常溫30天/冷藏60天",
+    gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、紐西蘭無水奶油、澳洲夏威夷豆、蔓越莓、草莓乾、芒果青、番茄乾、草莓凍乾、芒果乾、鳳梨乾、奇異果乾、橙片、火龍果乾",
+    method:"開封即食，冷藏過食用前稍退冰 口感更佳",
+    taste:"綜合水果乾",
+    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
+    hint:"提袋花色因口味而異"
+    },  {
+    name: "抹茶草莓牛軋糖",
+    author: "約200g/袋",
+    img: "https://github.com/user-attachments/assets/7e144555-7da8-471b-a339-d270df5196a2",
+    price: "$380/袋",
+    date: "常溫30天/冷藏60天",
+    gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、紐西蘭無水奶油、澳洲夏威夷豆、草莓凍乾、小山園抹茶粉",
+    method:"開封即食，冷藏過食用前稍退冰 口感更佳",
+    taste:"抹茶草莓",
+    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
+    hint:"提袋花色因口味而異"
+    },
+    {
+    name: "杏仁果牛軋糖",
+    author: "約200g/袋",
+    img: "https://github.com/user-attachments/assets/7e144555-7da8-471b-a339-d270df5196a2",
+    price: "$260/袋",
+    date: "常溫30天/冷藏60天",
+    gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、紐西蘭無水奶油、美國杏仁果",
+    method:"開封即食，冷藏過食用前稍退冰 口感更佳",
+    taste:"杏仁果",
+    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
+    hint:"提袋花色因口味而異"
+    },
+  {
     name: "花生軟糖",
     author: "約250g/袋",
     img: "https://github.com/user-attachments/assets/6e16d2b1-c676-4190-a468-95ef5e0e64a7",
@@ -23,7 +58,7 @@ var bookdatas=[
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"提袋花色因口味而異"
   },
-{
+  {
     name: "芝麻花生軟糖",
     author: "約250g/袋",
     img: "https://github.com/user-attachments/assets/e76878d3-25bb-4692-8d6e-dc3cd99d207c",
