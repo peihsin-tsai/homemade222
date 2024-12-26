@@ -49,7 +49,7 @@ var bookdatas=[
    {
     name: "花生牛軋糖",
     author: "約200g/袋",
-    img: "https://github.com/user-attachments/assets/97ad1f12-b50d-439a-bfa9-4f7dcc04e34e",
+    img: "https://github.com/user-attachments/assets/20500549-8f2e-4194-8f0f-e95b66776d2f",
     price: "$260/袋",
     date: "常溫30天/冷藏60天",
     gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、紐西蘭無水奶油、花生",
