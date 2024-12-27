@@ -130,7 +130,7 @@ var bookdatas=[
     hint:"台灣氣候濕熱，夏天一律以低溫宅配（運費自付），手提包裝盒隨機"
    },*/
 {
-    name: "南棗核桃糕 (全素)",
+    name: "南棗核桃糕",
     author: "約200g/袋",
     img: "https://user-images.githubusercontent.com/71368136/210490306-93927c62-38e2-4689-9bf6-ca8641dffc23.jpg",
     price: "$300/袋",
@@ -170,7 +170,7 @@ var bookdatas=[
     img: "https://user-images.githubusercontent.com/71368136/210490478-c9a9a63f-38d5-4a72-9238-c62f73da5673.jpg",
     price: "$380/袋",
     date: "常溫30天/冷凍45天",
-    gradiant:"澳洲夏威夷豆、窯燒桂圓肉、法國發酵奶油、日本海藻糖、薑汁、法國鮮奶油、麥芽糖、海鹽、黑糖等",
+    gradiant:"澳洲夏威夷豆、窯燒桂圓肉、法國發酵奶油、日本海藻糖、薑汁、法國鮮奶油、麥芽糖、海鹽、黑糖、寒天等",
     taste:"薑汁撞奶",
     method:"解凍需前一晚放置冷藏，隔天再放置室溫即可食用",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
