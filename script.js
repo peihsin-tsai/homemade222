@@ -48,7 +48,7 @@ var bookdatas=[
     {
     name: "杏仁果牛軋糖",
     author: "約200g/袋",
-    img: "https://github.com/user-attachments/assets/97ad1f12-b50d-439a-bfa9-4f7dcc04e34e",
+    img: "https://github.com/user-attachments/assets/d2850044-c13f-4878-ab05-3ea906e5f059",
     price: "$260/袋",
     date: "常溫30天/冷藏60天",
     gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、法國無水奶油、美國杏仁果、蔓越莓乾",
