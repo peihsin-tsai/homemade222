@@ -51,7 +51,7 @@ var bookdatas=[
     img: "https://github.com/user-attachments/assets/97ad1f12-b50d-439a-bfa9-4f7dcc04e34e",
     price: "$260/袋",
     date: "常溫30天/冷藏60天",
-    gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、法國無水奶油、美國杏仁果",
+    gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、法國無水奶油、美國杏仁果、蔓越莓乾",
     method:"開封即食，冷藏過食用前稍退冰 口感更佳",
     taste:"杏仁果",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
