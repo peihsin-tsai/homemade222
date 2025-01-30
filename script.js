@@ -36,7 +36,7 @@ var bookdatas=[
     },{
     name: "草莓牛軋糖",
     author: "約200g/袋",
-    img: "https://github.com/user-attachments/assets/ebe8d666-cf5f-4436-b734-16a33fa973b2",
+    img: "https://github.com/user-attachments/assets/bf293cd1-77f1-49e6-a4ea-68364d5e0962",
     price: "$430/袋",
     date: "常溫30天/冷藏60天",
     gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、法國無水奶油、澳洲夏威夷豆、草莓凍乾、草莓粉、蔓越莓乾",
