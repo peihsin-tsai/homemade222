@@ -48,7 +48,7 @@ var bookdatas=[
     {
     name: "杏仁果牛軋糖",
     author: "約200g/袋",
-    img: "https://github.com/user-attachments/assets/d2850044-c13f-4878-ab05-3ea906e5f059",
+    img: "https://github.com/user-attachments/assets/d30106d1-439b-4702-8dd7-1843bc8a3eb5",
     price: "$260/袋",
     date: "常溫30天/冷藏60天",
     gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、法國無水奶油、美國杏仁果、蔓越莓乾",
@@ -81,7 +81,7 @@ var bookdatas=[
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"提袋花色因口味而異"
   },
-  {
+  /*{
     name: "芝麻花生軟糖",
     author: "約250g/袋",
     img: "https://github.com/user-attachments/assets/e76878d3-25bb-4692-8d6e-dc3cd99d207c",
@@ -97,11 +97,11 @@ var bookdatas=[
     name: "雪 Q 餅 (原味/抹茶/伯爵/可可) (不可混裝)",
     author: "約280g/袋",
     img: "https://user-images.githubusercontent.com/71368136/210489318-1fdd65e0-88d9-4006-8e3c-99e23817a650.jpg",
-    price: "$240-250/袋",
+    price: "$250-260/袋",
     date: "常溫可存放2個禮拜/冷藏30天",
     gradiant:"紐西蘭奶油、棉花糖、餅乾、奶粉、果乾、花生、杏仁果、風味粉等(原料可能因口味不同而有差異)",
     method:"開封即食，冷藏過食用前稍退冰 口感更佳",
-    taste:"原味/$240、抹茶/$250、伯爵/$250、可可/$250",
+    taste:"原味/$250、抹茶/$260、伯爵/$260、可可/$260",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"提袋花色因口味而異"
   },
