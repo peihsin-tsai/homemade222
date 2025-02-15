@@ -178,7 +178,7 @@ var bookdatas=[
    {
     name: "泰奶夏威夷豆Q糖",
     author: "約200g/袋",
-    img: " https://github.com/user-attachments/assets/e85347cd-aaff-4e82-a594-cba7af3dfe8",
+    img: " https://github.com/user-attachments/assets/e85347cd-aaff-4e82-a594-cba7af3dfe85",
     price: "$380/袋",
     date: "常溫30天/冷凍45天",
     gradiant:"麥芽糖、三溫糖、海藻糖、海鹽、寒天、法國發酵奶油、鮮奶、泰式紅茶粉、法國鮮奶油、澳洲夏威夷豆等",
