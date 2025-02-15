@@ -146,7 +146,6 @@ var bookdatas=[
     author: "約200g/袋",
     img: "https://user-images.githubusercontent.com/71368136/210490306-93927c62-38e2-4689-9bf6-ca8641dffc23.jpg",
     price: "$300/袋",
-    link_book: "https://www.books.com.tw/products/0010728840?loc=P_003_001",
     date: "常溫30天/冷凍45天",
     gradiant:"美國核桃、純棗泥、法國發酵奶油、日本海藻糖、麥芽糖、寒天等",
     taste:"南棗核桃",
@@ -165,18 +164,30 @@ var bookdatas=[
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"手提包裝袋隨機"
   },{
-    name: "莓果夏威夷Q糖",
+    name: "莓果夏威夷豆Q糖",
     author: "約200g/袋",
     img: "https://user-images.githubusercontent.com/71368136/210490416-68ca01f3-9ea9-44c0-8826-087e7b42617d.jpg",
     price: "$380/袋",
-    link_book: "https://homemade222.files.wordpress.com/2022/03/e88bb1e5bc8fe5a4aae5a683e7b396-edited.jpg?w=2000&h=",
     date: "常溫30天/冷凍45天",
-    gradiant:"草苺果泥、草苺乾、澳洲夏威夷豆、法國發酵奶油、日本海藻糖、麥芽糖、寒天、日本上白糖、覆盆子醬等",
+    gradiant:"法國草苺果泥、草苺乾、澳洲夏威夷豆、法國發酵奶油、日本海藻糖、麥芽糖、寒天、日本上白糖、覆盆子醬等",
     taste:"莓果夏威夷",
     method:"解凍需前一晚放置冷藏，隔天再放置室溫即可食用",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"手提包裝袋隨機"
-  },{
+  },
+   {
+    name: "泰奶夏威夷豆Q糖",
+    author: "約200g/袋",
+    img: " https://github.com/user-attachments/assets/e85347cd-aaff-4e82-a594-cba7af3dfe8",
+    price: "$380/袋",
+    date: "常溫30天/冷凍45天",
+    gradiant:"麥芽糖、三溫糖、海藻糖、海鹽、寒天、法國發酵奶油、鮮奶、泰式紅茶粉、法國鮮奶油、澳洲夏威夷豆等",
+    taste:"泰奶夏威夷豆",
+    method:"解凍需前一晚放置冷藏，隔天再放置室溫即可食用",
+    warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
+    hint:"手提包裝袋隨機"
+  },
+  {
     name: "薑汁撞奶Q糖",
     author: "約200g/袋",
     img: "https://user-images.githubusercontent.com/71368136/210490478-c9a9a63f-38d5-4a72-9238-c62f73da5673.jpg",
