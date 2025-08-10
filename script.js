@@ -15,7 +15,7 @@ var bookdatas=[
     name: "繽紛果乾牛軋糖",
     author: "約200g/袋",
     img: "https://github.com/user-attachments/assets/fbb5a10d-e4ca-4291-a92d-bcec1ec95df6",
-    price: "$430/袋",
+    price: "$460/袋",
     date: "常溫30天/冷藏60天",
     gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、法國無水奶油、澳洲夏威夷豆、蔓越莓、草莓乾、芒果青、番茄乾、草莓凍乾、芒果乾、鳳梨乾、奇異果乾、橙片、火龍果乾",
     method:"開封即食，冷藏過食用前稍退冰 口感更佳",
@@ -26,7 +26,7 @@ var bookdatas=[
     name: "抹茶草莓牛軋糖",
     author: "約200g/袋",
     img: "https://github.com/user-attachments/assets/628fa0ae-3268-4564-a6f0-74c447e79db9",
-    price: "$430/袋",
+    price: "$460/袋",
     date: "常溫30天/冷藏60天",
     gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、法國無水奶油、澳洲夏威夷豆、草莓凍乾、小山園抹茶粉",
     method:"開封即食，冷藏過食用前稍退冰 口感更佳",
@@ -37,7 +37,7 @@ var bookdatas=[
     name: "草莓牛軋糖",
     author: "約200g/袋",
     img: "https://github.com/user-attachments/assets/ebe8d666-cf5f-4436-b734-16a33fa973b2",
-    price: "$430/袋",
+    price: "$460/袋",
     date: "常溫30天/冷藏60天",
     gradiant:"麥芽糖、寒天、日本海藻糖、蛋白霜、紐西蘭奶粉、法國無水奶油、澳洲夏威夷豆、草莓凍乾、草莓粉",
     method:"開封即食，冷藏過食用前稍退冰 口感更佳",
@@ -145,7 +145,7 @@ var bookdatas=[
     name: "南棗核桃糕",
     author: "約200g/袋",
     img: "https://user-images.githubusercontent.com/71368136/210490306-93927c62-38e2-4689-9bf6-ca8641dffc23.jpg",
-    price: "$300/袋",
+    price: "$330/袋",
     date: "常溫30天/冷凍45天",
     gradiant:"美國核桃、純棗泥、法國發酵奶油、日本海藻糖、麥芽糖、寒天等",
     taste:"南棗核桃",
@@ -156,7 +156,7 @@ var bookdatas=[
     name: "英式太妃酥糖",
     author: "約200g/袋",
     img: "https://user-images.githubusercontent.com/71368136/210490362-6d10dc63-c73d-46ae-a98f-f2efa6b56fb1.jpg",
-    price: "$380/袋",
+    price: "$400/袋",
     date: "常溫30天/冷凍45天",
     gradiant:"法國發酵奶油、美國杏仁條、日本海藻糖、日本三溫糖、麥芽糖、卵磷、法國鮮奶油等進口原料",
     taste:"英式太妃",
@@ -198,7 +198,7 @@ var bookdatas=[
     method:"解凍需前一晚放置冷藏，隔天再放置室溫即可食用",
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"手提包裝袋隨機"
-  },{
+  },/*{
     name: "米果(野莓杏仁/川香海味)",
     author: "約直徑5.5cm X 厚1.6cm/個 , 12入/盒 ",
     img: "https://user-images.githubusercontent.com/71368136/210496649-147766f2-dcdd-4442-b759-0320f245429b.jpg",
@@ -210,7 +210,7 @@ var bookdatas=[
     warning:"皆為天然食材不含防腐劑、抗氧化劑，請盡早食用完畢。請置於陰涼乾燥處，避免存放在高溫或日照下。",
     hint:"手提包裝盒隨機"
   },
-/* {
+ {
      name: "南瓜磅蛋糕",
      author: "約220g/盒",
      img: "https://homemade222.files.wordpress.com/2022/03/e58d97e7939ce6a392e89b8be7b395-3-edited.jpg",
